@@ -14,4 +14,4 @@ def decode_audio_to_file(input_audio_path, output_file_path):
     audio_stream.close()
 
 # Example usage
-decode_audio_to_file('temp.wav', 'decoded.mp4')
+decode_audio_to_file('audio.wav', 'decoded.exe')
