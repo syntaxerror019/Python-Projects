@@ -1,4 +1,7 @@
-### TYPING DISCORD STATUS SCRIPT
+### TYPING DISCORD STATUS SCRIPT 
+
+""" This is an outdated script written back when I was early into programming. I wouldn't say that anything here is particularly valuable, and I beleive the Discord API has changed since the last update on this... """
+
 import requests, json, time
 import os
 token = "Your Discord Token HERE"
