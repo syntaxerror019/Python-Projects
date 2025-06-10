@@ -1,3 +1,3 @@
 # Python-Projects
 
-Some python projects i have saved
+Some very old python projects I discoverd in my early programming days.
